@@ -1,9 +1,6 @@
 
-## Deprecated -- all PRs will be closed.
+CA: FwApc8fz6reNjXb3VfWHeLSDsezD1K9sXuVMJS8Jqray
 
-This has been replaced by Jupiter Verify, our V3 token list system. You no longer need to submit applications. Instead, tokens with a good organic score and community support(measured by smart likes) will be discovered naturally and verified.
+Silver (SLV) is a decentralized token built on the Solana network, designed to represent value and community growth through transparency and long-term utility. With a total supply of 100 million tokens, SLV adopts a bonding curve mechanism to ensure fair distribution and organic price development.
+The project emphasizes security, community empowerment, and continuous ecosystem expansion without central control or manipulation.
 
-To get your community to submit smart likes, go to the token page of your token and like it.
-- Example for SOL token, replace the mint address with yours: https://jup.ag/tokens/So11111111111111111111111111111111111111112
-
-Just a reminder: Verification is our way of helping users find the correct token at the right mint address, and is not an endorsement of any project.
