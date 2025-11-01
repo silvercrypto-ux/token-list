@@ -72,9 +72,9 @@ SILVER PROTOCOL
 | Parameter | Value / Nilai |
 |------------|----------------|
 | Network | Solana |
-| Token Name | Silver Protocol |
+| Token Name | Silver |
 | Symbol | SLV |
-| Contract | *(to be published after audit)* / *(akan diumumkan setelah audit)* |
+| Contract | *(FwApc8fz6reNjXb3VfWHeLSDsezD1K9sXuVMJS8Jqray)
 | Curve Type | Exponential (Bonding Curve 2.0) |
 
 ---
