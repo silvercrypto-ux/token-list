@@ -74,7 +74,7 @@ SILVER PROTOCOL
 | Network | Solana |
 | Token Name | Silver |
 | Symbol | SLV |
-| Contract | *(FwApc8fz6reNjXb3VfWHeLSDsezD1K9sXuVMJS8Jqray)
+| Contract |FwApc8fz6reNjXb3VfWHeLSDsezD1K9sXuVMJS8Jqray
 | Curve Type | Exponential (Bonding Curve 2.0) |
 
 ---
@@ -89,10 +89,10 @@ SILVER PROTOCOL
 
 ## ⚠️ Disclaimer / Penafian
 **English:**  
-SLV is an experimental DeFi token based on the Bonding Curve model. Prices fluctuate with market activity. There is no physical asset backing. Users are encouraged to understand DeFi risks before participating.
+SLV is DeFi token based on the Bonding Curve model. Prices fluctuate with market activity. There is no physical asset backing. Users are encouraged to understand DeFi risks before participating.
 
 **Indonesia:**  
-SLV adalah token eksperimental berbasis sistem Bonding Curve. Nilai token dapat berubah sesuai aktivitas pasar. Tidak ada jaminan aset fisik. Pengguna disarankan memahami risiko DeFi sebelum berpartisipasi.
+SLV adalah token berbasis sistem Bonding Curve. Nilai token dapat berubah sesuai aktivitas pasar. Tidak ada jaminan aset fisik. Pengguna disarankan memahami risiko DeFi sebelum berpartisipasi.
 
 ---
 
